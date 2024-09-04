@@ -2,7 +2,7 @@
 
 💻 Estudante Técnico em Análise e Desenvolvimento de Sistemas.                        
 📷 Formado em Design Gráfico pela UNIVEM - Marília.          
-📚 Estudando e aperfeiçoando em React e Next.
+📚 Estudando e aperfeiçoando em React e Next.               
 🏳️‍🌈 Pronomes: Ele/Dele.
 
 <div>
