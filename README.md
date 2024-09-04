@@ -1,4 +1,4 @@
-☕ Olá, eu sou o Dylan , Sejam Bem-Vindos !!
+☕ Olá, Sejam Bem-Vindos, eu sou o Dylan.
 
 💻 Estudante Técnico em Análise e Desenvolvimento de Sistemas.                        
 📷 Formado em Design Gráfico pela UNIVEM - Marília.          
